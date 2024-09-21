@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Depth-First Search
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -26,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Tree
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0101-symmetric-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0617-merge-two-binary-trees) |
@@ -61,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Stack
 |  |
 | ------- |
+| [0094-binary-tree-inorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Dynamic Programming
