@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Depth-First Search
 |  |
@@ -18,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0101-symmetric-tree) |
 | [0226-invert-binary-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0617-merge-two-binary-trees) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Breadth-First Search
 |  |
@@ -66,6 +68,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0234-palindrome-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0775-n-ary-tree-preorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 ## Dynamic Programming
 |  |
