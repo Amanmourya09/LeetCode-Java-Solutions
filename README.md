@@ -73,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Dynamic Programming
 |  |
@@ -94,6 +96,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0742-to-lower-case](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0742-to-lower-case) |
+| [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
 |  |
@@ -108,4 +111,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0278-first-bad-version](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0278-first-bad-version) |
+## Simulation
+|  |
+| ------- |
+| [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
 <!---LeetCode Topics End-->
