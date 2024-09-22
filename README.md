@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0217-contains-duplicate](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
+| [0792-binary-search](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0792-binary-search) |
 ## Hash Table
 |  |
 | ------- |
@@ -96,4 +97,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+## Binary Search
+|  |
+| ------- |
+| [0792-binary-search](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0792-binary-search) |
 <!---LeetCode Topics End-->
