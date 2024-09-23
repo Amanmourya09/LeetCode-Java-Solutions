@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0101-symmetric-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0101-symmetric-tree) |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0112-path-sum](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0112-path-sum) |
+| [0200-number-of-islands](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
 | [0226-invert-binary-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0226-invert-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0617-merge-two-binary-trees) |
 ## Binary Tree
@@ -47,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
 | [0118-pascals-triangle](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
+| [0200-number-of-islands](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0792-binary-search) |
 ## Hash Table
@@ -118,4 +121,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
