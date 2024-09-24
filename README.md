@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0792-binary-search) |
+| [1019-squares-of-a-sorted-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Hash Table
 |  |
 | ------- |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
+| [1019-squares-of-a-sorted-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Linked List
 |  |
 | ------- |
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
 | [0908-middle-of-the-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1019-squares-of-a-sorted-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 ## Stack
 |  |
 | ------- |
