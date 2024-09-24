@@ -106,6 +106,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0014-longest-common-prefix) |
 | [0344-reverse-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0344-reverse-string) |
 | [0742-to-lower-case](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0742-to-lower-case) |
 | [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
@@ -135,4 +136,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
