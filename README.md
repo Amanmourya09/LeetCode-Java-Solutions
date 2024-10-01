@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
 | [0141-linked-list-cycle](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0217-contains-duplicate](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
+| [0782-jewels-and-stones](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0782-jewels-and-stones) |
 | [0876-hand-of-straights](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0876-hand-of-straights) |
 ## Sorting
 |  |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0344-reverse-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0344-reverse-string) |
 | [0657-robot-return-to-origin](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0742-to-lower-case) |
+| [0782-jewels-and-stones](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0782-jewels-and-stones) |
 | [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 ## Greedy
