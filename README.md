@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0016-3sum-closest) |
+| [0148-sort-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0876-hand-of-straights](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0876-hand-of-straights) |
 | [1019-squares-of-a-sorted-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -99,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0086-partition-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0328-odd-even-linked-list) |
@@ -117,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0016-3sum-closest) |
 | [0086-partition-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
+| [0148-sort-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
 | [0234-palindrome-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0344-reverse-string) |
 | [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
@@ -187,4 +190,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0871-keys-and-rooms](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0871-keys-and-rooms) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
+## Merge Sort
+|  |
+| ------- |
+| [0148-sort-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
 <!---LeetCode Topics End-->
