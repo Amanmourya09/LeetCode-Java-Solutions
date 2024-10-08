@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0832-binary-tree-pruning](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0832-binary-tree-pruning) |
 | [1005-univalued-binary-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1005-univalued-binary-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0832-binary-tree-pruning](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0832-binary-tree-pruning) |
 | [0871-keys-and-rooms](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0871-keys-and-rooms) |
 | [1005-univalued-binary-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1005-univalued-binary-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -72,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0617-merge-two-binary-trees](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0617-merge-two-binary-trees) |
 | [0832-binary-tree-pruning](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0832-binary-tree-pruning) |
 | [1005-univalued-binary-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1005-univalued-binary-tree) |
+| [1021-distribute-coins-in-binary-tree](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1021-distribute-coins-in-binary-tree) |
 ## Array
 |  |
 | ------- |
