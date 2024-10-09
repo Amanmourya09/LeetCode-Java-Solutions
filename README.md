@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0016-3sum-closest) |
 | [0118-pascals-triangle](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
+| [0136-single-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0792-binary-search](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0792-binary-search) |
@@ -240,4 +241,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0207-course-schedule](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0207-course-schedule) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
