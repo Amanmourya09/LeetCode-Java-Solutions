@@ -88,6 +88,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0118-pascals-triangle](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0136-single-number) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0657-robot-return-to-origin](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
 ## Union Find
@@ -228,6 +230,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
+| [0059-spiral-matrix-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
 ## Trie
 |  |
