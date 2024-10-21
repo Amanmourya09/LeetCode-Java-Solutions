@@ -99,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0876-hand-of-straights](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0941-sort-array-by-parity) |
+| [0952-word-subsets](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0952-word-subsets) |
 | [0958-sort-array-by-parity-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1019-squares-of-a-sorted-array) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0782-jewels-and-stones](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0876-hand-of-straights](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0876-hand-of-straights) |
+| [0952-word-subsets](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0965-unique-email-addresses) |
 ## Sorting
 |  |
@@ -195,6 +197,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0782-jewels-and-stones](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
+| [0952-word-subsets](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0965-unique-email-addresses) |
