@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
+| [0205-isomorphic-strings](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0782-jewels-and-stones) |
@@ -186,6 +187,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0014-longest-common-prefix) |
+| [0205-isomorphic-strings](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0657-robot-return-to-origin) |
