@@ -185,12 +185,14 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
+| [0412-fizz-buzz](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0014-longest-common-prefix) |
 | [0205-isomorphic-strings](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0205-isomorphic-strings) |
 | [0344-reverse-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0344-reverse-string) |
+| [0412-fizz-buzz](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0567-permutation-in-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [0657-robot-return-to-origin](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0742-to-lower-case](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0742-to-lower-case) |
@@ -222,6 +224,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0412-fizz-buzz](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
 ## Union Find
