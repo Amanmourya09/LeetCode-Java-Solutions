@@ -94,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0136-single-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0136-single-number) |
 | [0200-number-of-islands](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
+| [0485-max-consecutive-ones](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0876-hand-of-straights](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0876-hand-of-straights) |
