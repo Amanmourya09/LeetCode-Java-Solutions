@@ -174,6 +174,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -203,6 +204,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0953-reverse-only-letters](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0953-reverse-only-letters) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0965-unique-email-addresses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Greedy
 |  |
 | ------- |
