@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0001-two-sum](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
 | [0036-valid-sudoku](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
+| [0202-happy-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0567-permutation-in-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0086-partition-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0148-sort-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
+| [0202-happy-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0344-reverse-string) |
 | [0567-permutation-in-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
@@ -187,6 +189,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
+| [0202-happy-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0202-happy-number) |
 | [0412-fizz-buzz](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
