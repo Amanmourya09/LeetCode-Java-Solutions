@@ -137,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0086-partition-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0086-partition-list) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0141-linked-list-cycle](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
 | [0206-reverse-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0021-merge-two-sorted-lists](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0021-merge-two-sorted-lists) |
 | [0024-swap-nodes-in-pairs](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0024-swap-nodes-in-pairs) |
+| [0143-reorder-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
@@ -156,6 +158,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0016-3sum-closest](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0016-3sum-closest) |
 | [0086-partition-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
+| [0143-reorder-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0143-reorder-list) |
 | [0148-sort-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
 | [0202-happy-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0202-happy-number) |
 | [0234-palindrome-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
@@ -172,6 +175,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0094-binary-tree-inorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0094-binary-tree-inorder-traversal) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
+| [0143-reorder-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
