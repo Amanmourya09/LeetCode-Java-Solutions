@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0200-number-of-islands](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
 | [0217-contains-duplicate](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0485-max-consecutive-ones](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0485-max-consecutive-ones) |
+| [0496-next-greater-element-i](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0496-next-greater-element-i) |
 | [0792-binary-search](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0837-most-common-word) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
+| [0496-next-greater-element-i](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0822-unique-morse-code-words) |
@@ -180,6 +182,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0114-flatten-binary-tree-to-linked-list) |
 | [0143-reorder-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0143-reorder-list) |
 | [0234-palindrome-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
+| [0496-next-greater-element-i](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0496-next-greater-element-i) |
 | [0775-n-ary-tree-preorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0775-n-ary-tree-preorder-traversal) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
@@ -291,4 +294,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0837-most-common-word](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0837-most-common-word) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0496-next-greater-element-i](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0496-next-greater-element-i) |
 <!---LeetCode Topics End-->
