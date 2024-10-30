@@ -97,6 +97,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0792-binary-search](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0822-unique-morse-code-words) |
+| [0837-most-common-word](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0837-most-common-word) |
 | [0876-hand-of-straights](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0876-hand-of-straights) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [0941-sort-array-by-parity](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0941-sort-array-by-parity) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0567-permutation-in-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
 | [0782-jewels-and-stones](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0822-unique-morse-code-words) |
+| [0837-most-common-word](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0837-most-common-word) |
 | [0876-hand-of-straights](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0876-hand-of-straights) |
 | [0952-word-subsets](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0965-unique-email-addresses) |
@@ -210,6 +212,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0742-to-lower-case](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0742-to-lower-case) |
 | [0782-jewels-and-stones](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0782-jewels-and-stones) |
 | [0822-unique-morse-code-words](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0822-unique-morse-code-words) |
+| [0837-most-common-word](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0837-most-common-word) |
 | [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
 | [0952-word-subsets](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0952-word-subsets) |
 | [0953-reverse-only-letters](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0953-reverse-only-letters) |
@@ -284,4 +287,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0136-single-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0231-power-of-two) |
+## Counting
+|  |
+| ------- |
+| [0837-most-common-word](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0837-most-common-word) |
 <!---LeetCode Topics End-->
