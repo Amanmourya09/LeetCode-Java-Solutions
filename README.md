@@ -150,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0024-swap-nodes-in-pairs](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0024-swap-nodes-in-pairs) |
 | [0143-reorder-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0143-reorder-list) |
 | [0206-reverse-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0206-reverse-linked-list) |
+| [0231-power-of-two](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0231-power-of-two) |
 | [0234-palindrome-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 ## Two Pointers
 |  |
@@ -194,6 +195,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0009-palindrome-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
 | [0048-rotate-image](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0202-happy-number) |
+| [0231-power-of-two](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 ## String
 |  |
@@ -281,4 +283,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0136-single-number) |
+| [0231-power-of-two](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
