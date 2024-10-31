@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0958-sort-array-by-parity-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Hash Table
 |  |
 | ------- |
@@ -148,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0234-palindrome-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0328-odd-even-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Recursion
 |  |
 | ------- |
@@ -189,6 +191,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Dynamic Programming
 |  |
@@ -301,4 +304,5 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0503-next-greater-element-ii) |
+| [1072-next-greater-node-in-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
