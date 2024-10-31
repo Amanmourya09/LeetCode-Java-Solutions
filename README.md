@@ -110,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0958-sort-array-by-parity-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [0965-unique-email-addresses](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0965-unique-email-addresses) |
 | [1019-squares-of-a-sorted-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 ## Hash Table
 |  |
@@ -248,6 +249,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0278-first-bad-version](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
+| [1046-max-consecutive-ones-iii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Interactive
 |  |
 | ------- |
@@ -295,6 +297,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0567-permutation-in-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
+| [1046-max-consecutive-ones-iii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 ## Topological Sort
 |  |
 | ------- |
@@ -322,4 +325,5 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0724-find-pivot-index](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0724-find-pivot-index) |
+| [1046-max-consecutive-ones-iii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
