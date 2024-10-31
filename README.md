@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0724-find-pivot-index](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0822-unique-morse-code-words) |
@@ -317,4 +318,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1013-fibonacci-number) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
