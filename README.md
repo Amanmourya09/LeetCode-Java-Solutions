@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0485-max-consecutive-ones](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0485-max-consecutive-ones) |
 | [0496-next-greater-element-i](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0496-next-greater-element-i) |
 | [0503-next-greater-element-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0503-next-greater-element-ii) |
+| [0747-min-cost-climbing-stairs](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [0792-binary-search](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0792-binary-search) |
 | [0822-unique-morse-code-words](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0822-unique-morse-code-words) |
 | [0837-most-common-word](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0837-most-common-word) |
@@ -202,6 +203,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0118-pascals-triangle](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0747-min-cost-climbing-stairs](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1013-fibonacci-number) |
 ## Math
 |  |
