@@ -89,6 +89,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0048-rotate-image](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0075-sort-colors](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0075-sort-colors) |
 | [0118-pascals-triangle](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0118-pascals-triangle) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0136-single-number) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0016-3sum-closest](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
 | [0876-hand-of-straights](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0876-hand-of-straights) |
@@ -164,6 +166,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0011-container-with-most-water](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0016-3sum-closest) |
+| [0075-sort-colors](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0075-sort-colors) |
 | [0086-partition-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0086-partition-list) |
 | [0141-linked-list-cycle](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0143-reorder-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0143-reorder-list) |
