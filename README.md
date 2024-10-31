@@ -121,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0202-happy-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0202-happy-number) |
 | [0205-isomorphic-strings](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0205-isomorphic-strings) |
 | [0217-contains-duplicate](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0409-longest-palindrome) |
 | [0496-next-greater-element-i](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0496-next-greater-element-i) |
 | [0567-permutation-in-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0567-permutation-in-string) |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0075-sort-colors](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0075-sort-colors) |
 | [0148-sort-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0148-sort-list) |
 | [0217-contains-duplicate](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0876-hand-of-straights](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0876-hand-of-straights) |
 | [0941-sort-array-by-parity](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0958-sort-array-by-parity-ii) |
@@ -225,6 +227,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0205-isomorphic-strings](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0205-isomorphic-strings) |
+| [0242-valid-anagram](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
