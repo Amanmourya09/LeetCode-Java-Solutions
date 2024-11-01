@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0957-minimum-add-to-make-parentheses-valid](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0957-minimum-add-to-make-parentheses-valid) |
 | [0965-unique-email-addresses](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0965-unique-email-addresses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1302-delete-characters-to-make-fancy-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 ## Greedy
 |  |
 | ------- |
