@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1019-squares-of-a-sorted-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Hash Table
 |  |
 | ------- |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0876-hand-of-straights](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0876-hand-of-straights) |
 | [0952-word-subsets](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0965-unique-email-addresses) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Sorting
 |  |
 | ------- |
@@ -285,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0054-spiral-matrix](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0059-spiral-matrix-ii) |
 | [0200-number-of-islands](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0200-number-of-islands) |
+| [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 ## Trie
 |  |
 | ------- |
