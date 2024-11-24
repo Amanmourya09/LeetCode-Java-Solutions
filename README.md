@@ -118,6 +118,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0001-two-sum](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0001-two-sum) |
 | [0012-integer-to-roman](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0036-valid-sudoku](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0036-valid-sudoku) |
 | [0141-linked-list-cycle](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0141-linked-list-cycle) |
 | [0202-happy-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0202-happy-number) |
@@ -220,6 +221,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0007-reverse-integer](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0202-happy-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0231-power-of-two) |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0012-integer-to-roman](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0058-length-of-last-word) |
