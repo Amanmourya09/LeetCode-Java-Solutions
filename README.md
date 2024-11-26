@@ -304,6 +304,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0207-course-schedule](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0207-course-schedule) |
 | [0547-number-of-provinces](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0547-number-of-provinces) |
 | [0871-keys-and-rooms](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0871-keys-and-rooms) |
+| [3189-find-champion-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/3189-find-champion-ii) |
 ## Divide and Conquer
 |  |
 | ------- |
