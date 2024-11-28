@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0011-container-with-most-water](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0011-container-with-most-water) |
 | [0016-3sum-closest](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0016-3sum-closest) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0035-search-insert-position](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
 | [0036-valid-sudoku](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0036-valid-sudoku) |
 | [0048-rotate-image](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
@@ -266,6 +267,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0035-search-insert-position](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0035-search-insert-position) |
 | [0278-first-bad-version](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0278-first-bad-version) |
 | [0792-binary-search](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
