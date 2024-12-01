@@ -115,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1072-next-greater-node-in-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Hash Table
 |  |
 | ------- |
@@ -137,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0952-word-subsets](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0952-word-subsets) |
 | [0965-unique-email-addresses](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0965-unique-email-addresses) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Sorting
 |  |
 | ------- |
@@ -149,6 +151,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0941-sort-array-by-parity](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0941-sort-array-by-parity) |
 | [0958-sort-array-by-parity-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Linked List
 |  |
 | ------- |
@@ -195,6 +198,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0953-reverse-only-letters](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0953-reverse-only-letters) |
 | [0958-sort-array-by-parity-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1019-squares-of-a-sorted-array) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Stack
 |  |
 | ------- |
@@ -272,6 +276,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0792-binary-search](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0792-binary-search) |
 | [0882-peak-index-in-a-mountain-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1468-check-if-n-and-its-double-exist](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 ## Interactive
 |  |
 | ------- |
