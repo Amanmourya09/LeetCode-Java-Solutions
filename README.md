@@ -201,6 +201,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1019-squares-of-a-sorted-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [2232-adding-spaces-to-a-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Stack
 |  |
 | ------- |
@@ -264,6 +265,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1302-delete-characters-to-make-fancy-string) |
 | [2232-adding-spaces-to-a-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/2232-adding-spaces-to-a-string) |
+| [2414-move-pieces-to-obtain-a-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/2414-move-pieces-to-obtain-a-string) |
 ## Greedy
 |  |
 | ------- |
