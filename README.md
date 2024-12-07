@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1072-next-greater-node-in-linked-list](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1072-next-greater-node-in-linked-list) |
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2232-adding-spaces-to-a-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Table
@@ -286,6 +287,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0882-peak-index-in-a-mountain-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0882-peak-index-in-a-mountain-array) |
 | [1046-max-consecutive-ones-iii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Interactive
 |  |
