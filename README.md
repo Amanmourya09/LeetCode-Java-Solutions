@@ -117,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1147-flip-columns-for-maximum-number-of-equal-rows](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1147-flip-columns-for-maximum-number-of-equal-rows) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2232-adding-spaces-to-a-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/2232-adding-spaces-to-a-string) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Hash Table
@@ -156,6 +157,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0958-sort-array-by-parity-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0958-sort-array-by-parity-ii) |
 | [1019-squares-of-a-sorted-array](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1019-squares-of-a-sorted-array) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
+| [2164-two-best-non-overlapping-events](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Linked List
 |  |
@@ -229,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0747-min-cost-climbing-stairs](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1013-fibonacci-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1013-fibonacci-number) |
+| [2164-two-best-non-overlapping-events](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 ## Math
 |  |
 | ------- |
@@ -288,6 +291,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [1046-max-consecutive-ones-iii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1468-check-if-n-and-its-double-exist](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1468-check-if-n-and-its-double-exist) |
 | [1886-minimum-limit-of-balls-in-a-bag](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1886-minimum-limit-of-balls-in-a-bag) |
+| [2164-two-best-non-overlapping-events](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 | [2640-maximum-number-of-integers-to-choose-from-a-range-i](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/2640-maximum-number-of-integers-to-choose-from-a-range-i) |
 ## Interactive
 |  |
@@ -368,4 +372,8 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0724-find-pivot-index](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0724-find-pivot-index) |
 | [1046-max-consecutive-ones-iii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [2164-two-best-non-overlapping-events](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/2164-two-best-non-overlapping-events) |
 <!---LeetCode Topics End-->
