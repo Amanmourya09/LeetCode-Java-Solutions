@@ -250,6 +250,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0013-roman-to-integer](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0066-plus-one) |
+| [0067-add-binary](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0067-add-binary) |
 | [0202-happy-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0202-happy-number) |
 | [0231-power-of-two](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0231-power-of-two) |
 | [0412-fizz-buzz](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
@@ -262,6 +263,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0014-longest-common-prefix](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0020-valid-parentheses) |
 | [0058-length-of-last-word](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0058-length-of-last-word) |
+| [0067-add-binary](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0067-add-binary) |
 | [0205-isomorphic-strings](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0205-isomorphic-strings) |
 | [0242-valid-anagram](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0344-reverse-string) |
@@ -313,6 +315,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0054-spiral-matrix](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0054-spiral-matrix) |
 | [0059-spiral-matrix-ii](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0059-spiral-matrix-ii) |
+| [0067-add-binary](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0067-add-binary) |
 | [0412-fizz-buzz](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0657-robot-return-to-origin) |
 | [0874-backspace-string-compare](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0874-backspace-string-compare) |
@@ -365,6 +368,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0067-add-binary](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0067-add-binary) |
 | [0136-single-number](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0136-single-number) |
 | [0231-power-of-two](https://github.com/Amanmourya09/LeetCode-Java-Solutions/tree/master/0231-power-of-two) |
 ## Counting
